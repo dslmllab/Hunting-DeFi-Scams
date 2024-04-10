@@ -1,1 +1,1 @@
-# Hunting-DeFi-Rug-Pulls-and-Scams
+# Hunting-DeFi-Scams
