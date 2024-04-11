@@ -1,0 +1,41 @@
+Project,URL,Protocol Type,Smart Contract Address (Ethereum Mainnet)
+Uniswap,https://uniswap.org/,Decentralized Exchange (DEX),0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+Compound,https://compound.finance/,Lending/Borrowing,0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B
+Aave,https://aave.com/,Lending/Borrowing,0x7d2768dE32b0b80b7a3454c06BdAc94A69DDc7A9
+Maker,https://makerdao.com/,Stablecoin,0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2
+Curve,https://curve.fi/,Automated Market Maker (AMM) & Stablecoin,0x90E00ACe148ca3b23Ac1bC8C240C2a7Dd9c2d7f5
+SushiSwap,https://www.sushi.com/,Decentralized Exchange (DEX),0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F
+Yearn Finance,https://yearn.finance/,Yield Optimization,0xdA816459F1AB5631232FE5e97a05BBBb94970c95
+Synthetix,https://synthetix.io/,Synthetic Assets,0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F
+Balancer,https://balancer.fi/,Automated Market Maker (AMM),0x9424B1412450D0f8Fc2255FAf6046b98213B76Bd
+dYdX,https://dydx.exchange/,Perpetual Contracts & Derivatives,0x1E0447b19BB6EcBa9e4E4FdC15148045cbBdB60a
+1inch,https://1inch.io/,DEX Aggregator,0x11111112542D85B3EF69AE05771c2dCCff4fAa26
+Kyber Network,https://kyber.network/,Decentralized Exchange (DEX),0x818E6FECD516Ecc3849DAf6845e3EC868087B755
+Bancor,https://bancor.network/,Automated Market Maker (AMM),0x1F573D6Fb3F13d689FF844B4cE37794d79a7FF1C
+Alchemix,https://alchemix.fi/,Lending/Borrowing,0x47CFa051854E8a9a4d9e2465F2682bc0D4fbD260
+Harvest Finance,https://harvest.finance/,Yield Optimization,0xb92AB7c1edcb273AbA24b0656cEb3681654805D2
+Badger DAO,https://badger.finance/,Yield Optimization,0x3472A5A71965499acd81997a54BBA8D852C6E53d
+Cream Finance,https://cream.finance/,Lending/Borrowing,0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258
+Ren,https://renproject.io/,Cross-chain Bridge,0x43892992B0b102459E895B88F7a475401FEde172
+mStable,https://mstable.org/,Stablecoin,0xf328828EaFDd7E3022fCd8E4E1B31bC0C9bC6E64
+Perpetual Protocol,https://perpetual.finance/,Perpetual Contracts & Derivatives,0xbC396689893D065F41bc2C6EcbeE5e0085233447
+Enzyme Finance,https://enzyme.finance/,Asset Management,0x8c37f61e3F0C338d5d3E665A02c82993f2918C7B
+Opyn,https://opyn.co/,Options,0x8188c8DF79f29d15190615bC49c665e28C21E4B3
+Hegic,https://www.hegic.co/,Options,0x16C413f639357d3e81243871f9dcDb2016d5Be16
+Saddle Finance,https://saddle.finance/,Automated Market Maker (AMM),0xBF9575063A84c5851B27DD58124Ae7edd89e9EA3
+Liquity,https://liquity.org/,Stablecoin,0x3d2B7f74b5A66cf0913B5e064BaC721d71c761f8
+Poly Network,https://poly.network/,Cross-chain Bridge,0x88f28C7B765b52D833bDEf2a0B265E9D7Ee28F05
+Tornado Cash,https://tornado.cash/,Privacy,0x47CE0122D8655957F95957AE4829680C1498004D
+InstaDApp,https://instadapp.io/,DeFi Management,0x661502be34cedCcA6Fbeb3dBe61b86E6f65356C9
+Zapper,https://zapper.fi/,DeFi Management,0xdB13512C75EEdA955309B300c366676d29950eC3
+Reflexer,https://reflexer.finance/,Stablecoin,0xE63D33d794Cae0E09DD5d559E54AB87D074e76ed
+Idle Finance,https://idle.finance/,Yield Optimization,0x275a3C621344481cF979cF03631A3A6a224b3f06
+Indexed Finance,https://indexed.finance/,Asset Management,0x0714CA09f452754Ba4893eC0CE9783C5B5aE812b
+Fei Protocol,https://fei.money/,Stablecoin,0x956F47F50A910163D8BF957Cf5846D573E7f87CA
+Lido,https://lido.fi/,Staking,0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32
+Abracadabra Money,https://abracadabra.money/,Lending/Borrowing,0x88D26d79a5e5AA74Fe196d71459eDc352E499598
+SpookySwap,https://spookyswap.finance/,Decentralized Exchange (DEX),0xF64e1c5B6E17031f5504E17c328d726e2217D9F5
+Ribbon Finance,https://ribbon.finance/,Structured Products,0xb9e7f8568e08d5659f5d29c4997173d84cdf2607
+Beefy Finance,https://www.beefy.finance/,Yield Optimization,0xb921D9828abfA6Cdc1eb5a29ED5cbf51C77bb457
+Rari Capital,https://rari.capital/,Yield Optimization,0xFBEE7f076c15e09AF4220dE32B2D7fbeb7d6B1c6
+Convex Finance,https://www.convexfinance.com/,Yield Optimization,0xF403C135812408BFbE8713b5A23a04b3D48AAE31
