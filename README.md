@@ -1,1 +1,1 @@
-# Hunting-DeFi-Scams
+DeFi-Scams
